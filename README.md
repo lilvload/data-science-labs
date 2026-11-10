@@ -86,8 +86,6 @@ Solves three tasks from the lab assignment (option 9).
 - **Colour-based image segmentation:** clusters the pixels of `images/color_scene.png` in RGB space with K-means, shows the segmented image for k = 4 and k = 5 and a mask for each colour cluster.
 - **Object counting:** counts the coins in `images/coins.png` with OpenCV: Otsu thresholding, morphological opening, distance transform and the **watershed** algorithm.
 
-The folder also contains the written lab report (`.pdf` and `.docx`) and an archive of the code.
-
 ### Lab 6. Time-series forecasting with a neural network
 
 Forecasts a noisy periodic signal with a multilayer perceptron.
@@ -150,7 +148,6 @@ On the saved run the LDA model reached accuracy 0.74 and F1 0.85, but ROC-AUC is
    python Lab_work_2.py
    ```
 
-   For Lab 5 the script is one level deeper: `cd lab-5/lab-5 && python lab5.py`.
 
 ### Notes on running
 
