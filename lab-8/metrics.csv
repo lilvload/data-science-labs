@@ -1,0 +1,6 @@
+Метрика,Значення
+Accuracy,0.74
+Precision,0.7534
+Recall,0.9735
+F1-score,0.8494
+ROC-AUC,0.5403
